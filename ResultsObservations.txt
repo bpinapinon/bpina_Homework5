@@ -1,0 +1,4 @@
+1. As expected, Urban cities have the larger bubble sizes corresponding to driver counts (each bubble is a city).
+2. Because of the higher supply of drivers in Urban cities, the average fare for Urban trend lower than the other two city types.
+3. Rural fares tend to trend much higher than the other two city types because of the lack of driver supply.
+4. Urban and Suburban rides account for ~95% of all rides.
